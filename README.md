@@ -7,7 +7,7 @@ Gallersdörfer, U., Ebel, J. and Matthes, F.
 
 Technical University Munich, Munich, Germany
 
-{ulrich.gallersdoerfer, jonas.ebel, matthes}@tum.de
+{[ulrich.gallersdoerfer](mailto:ulrich.gallersdoerfer@tum.de), [jonas.ebel](mailto:jonas.ebel@tum.de), [matthes](mailto:matthes@tum.de)}@tum.de
 
 ## Abstract
 
